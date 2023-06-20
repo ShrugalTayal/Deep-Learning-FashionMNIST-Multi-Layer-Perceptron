@@ -1,8 +1,6 @@
 # FashionMNIST--MLP-implementation-from-scratch
 FMNIST- MLP implementation from scratch using Numpy, Pandas and Matplotlib
 
-Certainly! Here's the `readme.md` file with the provided code:
-
 ```markdown
 ## Neural Network Implementation
 
