@@ -93,6 +93,5 @@ dW1, db1, dW2, db2 = backward_prop_Sigmoid(Z1, A1, Z2, A2, W1, W2, X, Y, Ymax)
 - Calculated the gradients of the weights and biases
 
 ```python
-dW1, db1, dW2, db2 = backward_prop_ReLU(Z1, A1, Z2, A2, W1, W2, X, Y,
-
-.
+dW1, db1, dW2, db2 = backward_prop_ReLU(Z1, A1, Z2, A2, W1, W2, X, Y, Ymax)
+```
